@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Roblox Fan Login</title>
+    <title>Roblox Login</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
